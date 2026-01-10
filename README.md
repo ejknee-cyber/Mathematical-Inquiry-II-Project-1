@@ -17,3 +17,15 @@ Created an Introduction Summary for the Finite difference Method (rough) <01,07,
 I performed a literature review for a bibliography citation on the Quasi-Newton's Method <01,08,2026>
 
 Created an Introduction Summary for Quasi-Newton's Method (rough) <01,08,2026>
+
+Revised abstract and title 
+
+Started on methodology, including section on a function bisection method works well on 
+
+made 2 plots on the desired bisection function and the iterative progress 
+
+made table recording progress on well-defined bisection problem 
+
+found example of 'stiff ode' that finite difference methods may fail on (still need to find proper citations)
+
+
