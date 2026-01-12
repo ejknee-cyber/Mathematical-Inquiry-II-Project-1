@@ -28,4 +28,8 @@ made table recording progress on well-defined bisection problem
 
 found example of 'stiff ode' that finite difference methods may fail on (still need to find proper citations)
 
+created section in methodology that expands on the bisection method
+
+created python code and plots invloving Newton's and the bisection method 
+
 
