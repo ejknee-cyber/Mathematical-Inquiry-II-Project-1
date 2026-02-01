@@ -32,4 +32,16 @@ created section in methodology that expands on the bisection method
 
 created python code and plots invloving Newton's and the bisection method 
 
+Removed section on Quasi-Newton as it did not fit the study well 
+
+Created summary for Fixed Point Iteration method 
+
+Finished methodology for each method, completed plots for good/bad example for each and did writeup on why they did/did not work well
+
+completed results section, created easy jot notes that students can remember from the study 
+
+Completed conclusion and AI declaration, as well as organizing the bibliography 
+
+completed everything 
+
 
